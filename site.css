@@ -1,0 +1,95 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbar {
+  background-color: black;
+}
+
+.navbar a {
+  color: white;
+}
+
+li.nav-item {
+  margin: 0 40px;
+}
+
+li.nav-item:hover {
+  border-bottom: 4px solid #84BD00;
+  background-color: 60%;
+}
+
+a.nav-link {
+  font-weight: 600;
+}
+
+.bg-grey {
+  background-color: #F7F7F7;
+}
+
+h3 {
+  font-weight: 600;
+}
+
+p {
+  color: #707070;
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.green {
+  color: #84BD00;
+}
+
+.btn {
+  border: 2px #84BD00 solid;
+  border-radius: 0;
+  color: #84BD00;
+  font-weight: 600;
+}
+
+.btn:hover {
+  background-color: #84BD00;
+  color: white;
+}
+
+.solid {
+  background-color: #84BD00;
+  color: white;
+}
+
+.solid:hover {
+  border: 2px #84BD00 solid;
+  border-radius: 0;
+  color: #84BD00;
+  background-color: transparent;
+}
+
+.box-white {
+  display: block;
+  min-height: 280px;
+  background-color: white;
+  padding: 40px;
+  margin-top: 20px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.16);
+}
+
+.box-grey {
+  display: block;
+  min-height: 280px;
+  background-color: #F7F7F7;
+  padding: 40px;
+  margin-top: 20px;
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.16);
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
